@@ -55,9 +55,6 @@ namespace TestProductApp.Controllers
             
         }
 
-        public IHttpActionResult GetProductId(string name)
-        {
-            return Ok();
-        }
+
     }
 }
